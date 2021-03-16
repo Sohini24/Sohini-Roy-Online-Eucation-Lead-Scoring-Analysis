@@ -1,0 +1,2 @@
+# Sohini-Roy-Online-Eucation-Lead-Scoring-Analysis
+ An Education Company wants to make a hike in their Leads conversion rate from 30% to 80%. Solution: Designed Logistic regression model and assigned  a  lead score  between 0  and 100 to  each of the  leads to target the top potential leads Key Achievement: Identified the  indicators which have high conversion rate on which company can give more attention and got ~81 % Sensitivity .
